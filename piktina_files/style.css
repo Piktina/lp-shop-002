@@ -163,6 +163,14 @@ img.shop-avatar {
   border: 3px solid white;
   margin-bottom: 16px;
 }
+img.shop-verify {
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  width: 20%;
+  border: 3px solid white;
+  margin-bottom: 20px;
+}
 
 .shop-name {
   color: #111111;
