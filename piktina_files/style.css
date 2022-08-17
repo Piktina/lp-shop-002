@@ -166,10 +166,10 @@ img.shop-avatar {
 img.shop-verify {
   position: absolute;
   bottom: 0;
-  left: 23%;
+  left: 24%;
   width: 14px;
   height: 14px;
-  margin-bottom: 10%;
+  margin-bottom: 12%;
 }
 img.shop-cta {
   position: absolute;
@@ -183,13 +183,13 @@ img.shop-cta {
 .shop-name {
   color: #111111;
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 28%;
-  margin: 0;
+  margin-right: 15px;
   font-family: Alfa Slab One;
-  font-size: 4vw;
+  font-size: 3.9vw;
   font-weight: 400;
-  line-height: 22px;
+  line-height: 13px;
   text-align: left;
 
 }
@@ -198,11 +198,11 @@ img.shop-cta {
   position: absolute;
   top: 65%;
   left: 28%;
-  margin: 0;
+  margin-right: 15px;
   font-family: Mulish;
   font-size: 13px;
   font-weight: 400;
-  line-height: 18px;
+  line-height: 12px;
   text-align: left;
 
 }
