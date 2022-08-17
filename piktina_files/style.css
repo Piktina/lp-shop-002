@@ -166,10 +166,18 @@ img.shop-avatar {
 img.shop-verify {
   position: absolute;
   bottom: 0;
-  left: 10%;
-  width: 20%;
-  border: 3px solid white;
-  margin-bottom: 20px;
+  left: 22%;
+  width: 20px;
+  height: 20px;
+  margin-bottom: 35px;
+}
+img.shop-cta {
+  position: absolute;
+  top: 50%;
+  left: 85%;
+  width: 20px;
+  height: 20px;
+  margin-bottom: 35px;
 }
 
 .shop-name {
